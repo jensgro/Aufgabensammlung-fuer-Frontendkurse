@@ -1,0 +1,130 @@
+/* ==== Styles for Flexbox ==== */
+
+
+.post {
+}
+
+.postUser {
+}
+
+.postUser__portrait {
+}
+
+.postBody  {
+}
+
+
+/* ========================================= */
+/* ===== Just for making them look nice ==== */
+
+.post + .post {
+  margin-top: 5px;
+}
+
+.postUser {
+  padding-bottom: 10px;
+  margin-right: 20px;
+}
+
+.postUser__portrait {
+  width: 100px;
+  height: 90px;
+  font-size: 70px;
+  line-height: 0;
+  color: #fd8700;
+}
+
+.postUser__name {
+  color: #a20000; /*#57727C*/
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  overflow-wrap: break-word;
+}
+
+.postBody {
+  position: relative;
+  padding: 15px;
+  border: 1px solid #fd8700; /*#CAD0D2*/
+  border-radius: 4px;
+}
+
+.postBody:after,
+.postBody:before {
+  right: 100%;
+  top: 35px;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+}
+
+.postBody:after {
+  border-color: transparent;
+  border-right-color: #fff;
+  border-width: 8px;
+  margin-top: -8px;
+}
+
+.postBody:before {
+  border-color: transparent;
+  border-right-color: #fd8700; /*#CAD0D2*/
+  border-width: 9px;
+  margin-top: -9px;
+}
+
+.postBody__date {
+  margin-top: 10px;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Modifikation */
+
+/* == 1 == */
+.postUser--reversed {
+  margin-right: 0;
+  margin-left: 20px;
+}
+
+.postBody--reversed:after,
+.postBody--reversed:before {
+  right: auto;
+  left: 100%;
+}
+
+.postBody--reversed:after {
+  border-color: transparent;
+  border-left-color: #fff;
+}
+
+.postBody--reversed:before {
+  border-color: transparent;
+  border-left-color: #fd8700; /*#CAD0D2*/
+}
+
+/* == 2 == */
+.post--reversed .postUser {
+  margin-right: 0;
+  margin-left: 20px;
+}
+
+.post--reversed .postBody:after,
+.post--reversed .postBody:before {
+  right: auto;
+  left: 100%;
+}
+
+.post--reversed .postBody:after {
+  border-color: transparent;
+  border-left-color: #fff;
+}
+
+.post--reversed .postBody:before {
+  border-color: transparent;
+  border-left-color: #fd8700; /*#CAD0D2*/
+}

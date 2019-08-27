@@ -1,0 +1,32 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.g33 {
+  flex: 0 0 33.3333333%;
+}
+
+.personal-card {
+  border: 2px solid #821544;
+  padding: 10px 20px;
+}
+.personal-card img {
+  border-radius: 50%;
+  border: 5px solid #821544;
+  margin-right: 20px;
+}
+.personal-card__info {
+  margin-left: auto;
+}
+.personal-card__info ul {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+.personal-card__info li {
+  margin-bottom: 10px;
+}
+.personal-card__name {
+  font-size: 2rem;
+}
