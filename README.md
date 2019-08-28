@@ -2,6 +2,10 @@
 
 Viele der hier gesammelten Aufgaben stammen aus Codepen.
 
+## Seitenvorlagen
+
+Im Unterordner "[Seitenvorlagen](/Seitenvorlagen/)" befinden sich Vorschläge für Testlayouts. Teile davon kommen mit Liveinhalten, Teile sind nur Vorlagen mit Dummy-Inhalten.
+
 ## Flexbox-Aufgaben
 
 ### todo-dreispaltiges-flexbox-layout
