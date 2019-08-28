@@ -59,3 +59,7 @@ Mit dieser Vorlage sollen Sie [Text über ein Bild schieben](Module-erstellen/te
 
 Umfassen Sie den [noch unsortierten Quelltext](Semantik/testaufgabe-einfaches-blog) mit den passenden HTML-Elementen. Das Endergebnis soll ein Ausschnitt aus einem Blog sein: eine Hauptüberschrift und drei Artikel mit Überschrift, Meta-Informationen und Text.
 Es ist dabei unerheblich, wie das Endergebnis aussieht. Einzig die Verwendung sinnvoller Semantik ist hierbei das Ziel. Wenn Sie mögen, können Sie natürlich zusätzlich mit CSS herumspielen.
+
+## Anspruchsvolles
+
+[Erstellen Sie eine Card](Module-erstellen/cards-1)  mit interaktiven Elementen.
