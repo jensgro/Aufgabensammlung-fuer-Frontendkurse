@@ -38,6 +38,8 @@ Eine sehr einfache Aufgabe: Bitte diese schon in einem kleinen Grid platzierten 
 Gestalten Sie die [Tabelle der 2. Fussball-Bundesliga](Selektoren/bundesliga-tabelle) mit CSS. Idealerweise müssen Sie dafür keine Änderungen am HTML vornehmen. Sie können die existierenden Klassen nutzen, aber auch auf sie verzichten. 
 Welche Vor- und Nachteile hätte dieser Verzicht?
 
+Gestalten Sie [einen einfachen Text](Selektoren/text-mit-selektoren-gestalten/) nur mit Selektoren.
+
 ## Layout (Grid) erstellen
 
 Arbeiten Sie mit unterschiedlichen Methoden zur Erstellung eines Layout mit dieser [sehr einfach gehaltenen Vorlage](Layout-erstellen/ein-einfaches-grid-bauen).
