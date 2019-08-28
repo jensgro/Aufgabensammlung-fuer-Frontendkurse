@@ -1,0 +1,27 @@
+/* just for testing purposes */
+.page-header {
+  background-color: #FFB74D;
+  color: #000;
+}
+
+.navigation {
+  background-color: #E64A19;
+  color: #fff;
+}
+
+.main-content {
+  background-color: #7CB342;
+  color: #fff;
+}
+
+.page-footer {
+  background-color: #0288D1;
+  color: #fff;
+}
+
+.page-header,
+.navigation,
+.main-content,
+.page-footer {
+  padding: 40px;
+}
