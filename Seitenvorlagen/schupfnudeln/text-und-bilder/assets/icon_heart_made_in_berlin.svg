@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="20px" viewBox="0 0 24 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_heart_on_tile@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="website_homepage_01_header_basic" transform="translate(-760.000000, -6173.000000)" fill="#FFCD02">
+            <g id="FOOTER" transform="translate(0.000000, 5712.000000)">
+                <g id="made-with-love" transform="translate(663.000000, 448.000000)">
+                    <path d="M109.039869,16.4499134 C107.647679,13.4710964 103.713554,12.1699527 100.705062,13.5531606 C97.5023882,15.0280872 95.9702682,18.7952398 98.5009788,23.2393289 C100.296496,26.4015834 103.483081,28.7844142 109.039869,33.0569484 C114.596657,28.7844142 117.783242,26.3997268 119.579134,23.2393289 C122.109845,18.7952398 120.576976,15.0280872 117.374303,13.5531606 C114.366184,12.171438 110.432059,13.4710964 109.039869,16.4499134 Z" id="icon_heart_on_tile"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
