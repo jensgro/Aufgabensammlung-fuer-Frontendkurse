@@ -31,3 +31,27 @@ Bringen Sie diese Teasercontainer in einem Grid unter und formatieren Sie sie au
 ### [todo-visitenkarten](Flexbox-Aufgaben/todo-visitenkarten)
 
 Eine sehr einfache Aufgabe: Bitte diese schon in einem kleinen Grid platzierten Visitenkarten gestalten.
+
+
+## Selektoren
+
+Gestalten Sie die [Tabelle der 2. Fussball-Bundesliga](Selektoren/bundesliga-tabelle) mit CSS. Idealerweise müssen Sie dafür keine Änderungen am HTML vornehmen. Sie können die existierenden Klassen nutzen, aber auch auf sie verzichten. 
+Welche Vor- und Nachteile hätte dieser Verzicht?
+
+## Layout (Grid) erstellen
+
+Arbeiten Sie mit unterschiedlichen Methoden zur Erstellung eines Layout mit dieser [sehr einfach gehaltenen Vorlage](Layout-erstellen/ein-einfaches-grid-bauen).
+
+## Module erstellen
+
+Mit dieser Vorlage sollen Sie [Text über ein Bild schieben](Module-erstellen/texte-ueber-bilder-schieben) und das Gesamtkosntrukt auch noch gut aussehen lassen. Nutzen Sie gerne Animationstechniken, um den Text erst bei Überfahren mit der Maus erscheinen zu lassen. 
+
+## Positionierung
+
+[Einsteigertest](Positionierung/test-positionierung) über die Grundbegriffe der Positionierung.
+
+
+## Semantik
+
+Umfassen Sie den [noch unsortierten Quelltext](Semantik/testaufgabe-einfaches-blog) mit den passenden HTML-Elementen. Das Endergebnis soll ein Ausschnitt aus einem Blog sein: eine Hauptüberschrift und drei Artikel mit Überschrift, Meta-Informationen und Text.
+Es ist dabei unerheblich, wie das Endergebnis aussieht. Einzig die Verwendung sinnvoller Semantik ist hierbei das Ziel. Wenn Sie mögen, können Sie natürlich zusätzlich mit CSS herumspielen.
