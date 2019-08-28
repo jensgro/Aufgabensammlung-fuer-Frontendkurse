@@ -8,6 +8,8 @@ Im Unterordner "[Seitenvorlagen](/Seitenvorlagen/)" befinden sich Vorschl√§ge f√
 
 ## Flexbox-Aufgaben
 
+Dies folgenden Aufgaben gibt es auch gesammelt direkt bei [Codepen](https://codepen.io/jensgro/full/wbqVEB).
+
 ### [todo-dreispaltiges-flexbox-layout](Flexbox-Aufgaben/todo-dreispaltiges-flexbox-layout)
 
 Erstellen Sie bitte ein dreispaltiges Layout mit Hilfe dieser Vorlage.
