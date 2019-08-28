@@ -62,4 +62,5 @@ Es ist dabei unerheblich, wie das Endergebnis aussieht. Einzig die Verwendung si
 
 ## Anspruchsvolles
 
-[Erstellen Sie eine Card](Module-erstellen/cards-1)  mit interaktiven Elementen.
+- [Erstellen Sie eine Card](Module-erstellen/cards-1)  mit interaktiven Elementen.
+- [Erstellen Sie eine Card](Module-erstellen/cards-2)  mit einem Bild. das bei `:hover` nach rechts rutscht.
