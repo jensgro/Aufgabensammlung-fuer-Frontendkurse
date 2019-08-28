@@ -1,0 +1,16 @@
+.info {
+  border-top: 2px solid #a20000;
+  padding-top: 20px;
+  margin-top: 20px;
+}
+.info img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+
+code {
+  display: inline-block;
+  padding: 4px 5px;
+  background-color: #fd8700;
+}
