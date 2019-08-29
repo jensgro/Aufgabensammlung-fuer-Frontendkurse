@@ -2,6 +2,8 @@
 
 Viele der hier gesammelten Aufgaben stammen aus Codepen. Eine beiligende README-Datei informiert dann über die Quelle.
 
+Zur Unterstützung bei der Bearbeitung der Aufgaben habe ich *[hilfreiche Links](hilfreiche-links.md)* gesammelt. 
+
 ## Semantik
 
 Umfassen Sie den [noch unsortierten Quelltext](Semantik/testaufgabe-einfaches-blog) mit den passenden HTML-Elementen. Das Endergebnis soll ein Ausschnitt aus einem Blog sein: eine Hauptüberschrift und drei Artikel mit Überschrift, Meta-Informationen und Text.
