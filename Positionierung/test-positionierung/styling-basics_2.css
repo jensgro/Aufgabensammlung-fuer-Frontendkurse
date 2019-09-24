@@ -1,0 +1,8 @@
+/* styling basics */
+html {padding: 20px 0; background-color: #efefef;}
+body {width: 80%; padding: 40px; margin: 0 auto; background: #fff; box-shadow: 1px 1px 5px rgba(0,0,0,0.5); font-family: Verdana, Arial, sans-serif; font-size: 14px;}
+
+/* clearfix */
+.clearfix:after { clear:both; content:"."; display:block; font-size:0; height:0; visibility:hidden; }
+.clearfix { display:block; } /* extra for Safari */
+.clearfix { *height:1%; }  /* trigger hasLayout for IE6 + 7 */
