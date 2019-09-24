@@ -38,3 +38,17 @@
 - [Flexbox](https://codepen.io/collection/XgxakO/) 
 - [Transformationen und Animationen](https://codepen.io/collection/XLjYoE/) 
 - [custom properties](https://codepen.io/collection/naydzK/) (vulgo: CSS Variablen)
+
+## Bilder beschneiden und responsive machen
+
+- CodePen mit zwei Techniken zur [Einbindung und Beschneidung großer Bilder](https://codepen.io/jensgro/pen/JjPJePE?editors=0100)
+
+Jedem Bild, das sich über wechselnde Breiten skalieren soll, sollte diese Klasse mitgegeben werden (der Klassenname ist natürlich individuell wählbar):
+
+````
+    .flexible {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+    }
+````
