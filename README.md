@@ -9,6 +9,11 @@ Zur Unterstützung bei der Bearbeitung der Aufgaben habe ich *[hilfreiche Links]
 Umfassen Sie den [noch unsortierten Quelltext](Semantik/testaufgabe-einfaches-blog) mit den passenden HTML-Elementen. Das Endergebnis soll ein Ausschnitt aus einem Blog sein: eine Hauptüberschrift und drei Artikel mit Überschrift, Meta-Informationen und Text.
 Es ist dabei unerheblich, wie das Endergebnis aussieht. Einzig die Verwendung sinnvoller Semantik ist hierbei das Ziel. Wenn Sie mögen, können Sie natürlich zusätzlich mit CSS herumspielen.
 
+## Boxmodell
+
+- Entfernen Sie [die Lücke unterhalb des Bildes](Boxmodell/textunterlaenge-und-bilder) im zweiten Container.
+- Geben Sie den [unterschiedlichen Inline-Elementen](Boxmodell/zeilenboxen-und-display-eigenschaft) ein vertikales Padding und Margin, das wirklich eine Auswirkung hat.
+
 ## Positionierung
 
 [Einsteigertest](Positionierung/test-positionierung) über die Grundbegriffe der Positionierung.
