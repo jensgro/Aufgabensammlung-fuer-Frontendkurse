@@ -2,7 +2,7 @@
 
 Viele der hier gesammelten Aufgaben stammen aus Codepen. Eine beiligende README-Datei informiert dann über die Quelle.
 
-Zur Unterstützung bei der Bearbeitung der Aufgaben habe ich *[hilfreiche Links](hilfreiche-links.md)* gesammelt. 
+Zur Unterstützung bei der Bearbeitung der Aufgaben habe ich **[hilfreiche Links](hilfreiche-links.md)** gesammelt. 
 
 ## Semantik
 

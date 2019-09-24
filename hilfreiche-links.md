@@ -19,6 +19,11 @@
 - [Flexbox Playground 1](https://codepen.io/jensgro/full/kXwjgZ)
 - [Flexbox Playground 2](https://codepen.io/jensgro/full/grRLqY)
 
+## Validierung
+
+- [W3C-Validator](http://validator.w3.org/)
+- [ein weiterer Validator](https://validator.nu/)
+- [Valide ist nicht zwangsweise semantisch korrekt](https://gist.github.com/jensgro/7303631)
 
 ## Blindtexte und Platzhalterbilder
 
@@ -34,14 +39,16 @@
 
 ## Sammlungen von Beispielen zur Inspiration auf CodePen
 
-- [ SVG](https://codepen.io/collection/nLjVea/)
+- [SVG](https://codepen.io/collection/nLjVea/)
 - [Flexbox](https://codepen.io/collection/XgxakO/) 
 - [Transformationen und Animationen](https://codepen.io/collection/XLjYoE/) 
 - [custom properties](https://codepen.io/collection/naydzK/) (vulgo: CSS Variablen)
 
-## Bilder beschneiden und responsive machen
+## Bilder beschneiden
 
-- CodePen mit zwei Techniken zur [Einbindung und Beschneidung großer Bilder](https://codepen.io/jensgro/pen/JjPJePE?editors=0100)
+CodePen mit zwei Techniken zur [Einbindung und Beschneidung großer Bilder](https://codepen.io/jensgro/pen/JjPJePE?editors=0100)
+
+## Bilder responsive machen
 
 Jedem Bild, das sich über wechselnde Breiten skalieren soll, sollte diese Klasse mitgegeben werden (der Klassenname ist natürlich individuell wählbar):
 
