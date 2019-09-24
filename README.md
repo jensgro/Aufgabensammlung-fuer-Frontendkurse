@@ -9,6 +9,10 @@ Zur Unterstützung bei der Bearbeitung der Aufgaben habe ich **[hilfreiche Links
 Umfassen Sie den [noch unsortierten Quelltext](Semantik/testaufgabe-einfaches-blog) mit den passenden HTML-Elementen. Das Endergebnis soll ein Ausschnitt aus einem Blog sein: eine Hauptüberschrift und drei Artikel mit Überschrift, Meta-Informationen und Text.
 Es ist dabei unerheblich, wie das Endergebnis aussieht. Einzig die Verwendung sinnvoller Semantik ist hierbei das Ziel. Wenn Sie mögen, können Sie natürlich zusätzlich mit CSS herumspielen.
 
+## Formulare
+
+Bauen Sie ein Formular mit Namen- und Adressfeldern. Sie können es dann später mit CSS gestalten und die Grenzen der Möglichkeiten erfahren.
+
 ## Boxmodell
 
 - Entfernen Sie [die Lücke unterhalb des Bildes](Boxmodell/textunterlaenge-und-bilder) im zweiten Container.
@@ -24,6 +28,14 @@ Gestalten Sie die [Tabelle der 2. Fussball-Bundesliga](Selektoren/bundesliga-tab
 Welche Vor- und Nachteile hätte dieser Verzicht?
 
 Gestalten Sie [einen einfachen Text](Selektoren/text-mit-selektoren-gestalten/) nur mit Selektoren.
+
+## Kaskade
+
+Welche Farbe haben [diese beiden](Kaskade/) `DIV`s?
+
+## Spezifität
+
+Schauen Sie sich [die folgenden Regeln an](Spezifitaet/) und bestimmen Sie das Ergebnis.
 
 ## Layout (Grid) erstellen
 
