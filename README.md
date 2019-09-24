@@ -37,6 +37,10 @@ Welche Farbe haben [diese beiden](Kaskade/) `DIV`s?
 
 Schauen Sie sich [die folgenden Regeln an](Spezifitaet/) und bestimmen Sie das Ergebnis.
 
+## Floats
+
+[Spielen Sie](Floats/floating) ein wenig mit der Float-Technik. 
+
 ## Layout (Grid) erstellen
 
 Arbeiten Sie mit unterschiedlichen Methoden zur Erstellung eines Layout mit dieser [sehr einfach gehaltenen Vorlage](Layout-erstellen/ein-einfaches-grid-bauen).
