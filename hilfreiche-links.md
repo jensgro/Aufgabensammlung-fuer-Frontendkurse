@@ -59,3 +59,9 @@ Jedem Bild, das sich über wechselnde Breiten skalieren soll, sollte diese Klass
         height: auto;
     }
 ````
+
+## Bilder responsive einbinden
+
+- [Mein einführender Artikel von 2014](http://webkrauts.de/artikel/2014/der-neue-standard-fuer-responsive-bilder)
+- [A Guide to Responsive Images with Ready-to-Use Templates](https://medium.freecodecamp.org/a-guide-to-responsive-images-with-ready-to-use-templates-c400bd65c433)
+- [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/) (eine umfangreiche und tolle Serie)
