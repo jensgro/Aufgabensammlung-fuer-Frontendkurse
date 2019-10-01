@@ -40,7 +40,7 @@ Arbeiten Sie mit unterschiedlichen Methoden zur Erstellung eines Layout mit dies
 
 ## Module erstellen
 
-- Mit dieser Vorlage sollen Sie [Text über ein Bild schieben](Module-erstellen/texte-ueber-bilder-schieben) und das Gesamtkosntrukt auch noch gut aussehen lassen. Nutzen Sie gerne Animationstechniken, um den Text erst bei Überfahren mit der Maus erscheinen zu lassen. 
+- Mit dieser Vorlage sollen Sie [Text über ein Bild schieben](Module-erstellen/texte-ueber-bilder-schieben) und das Gesamtkonstrukt auch noch gut aussehen lassen. Nutzen Sie gerne Animationstechniken, um den Text erst bei Überfahren mit der Maus erscheinen zu lassen. 
 - [Erstellen Sie eine Card](Module-erstellen/cards-1)  mit interaktiven Elementen.
 - [Erstellen Sie eine Card](Module-erstellen/cards-2)  mit einem Bild, das bei `:hover` nach rechts rutscht.
 
