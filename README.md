@@ -6,16 +6,6 @@ Der Master-Branch dieses Repo ist immer für die aktuelle Schulung gedacht und w
 
 Zur Unterstützung bei der Bearbeitung der Aufgaben habe ich **[hilfreiche Links](hilfreiche-links.md)** gesammelt. 
 
-
-## Semantik
-
-Umfassen Sie den [noch unsortierten Quelltext](Semantik/testaufgabe-einfaches-blog) mit den passenden HTML-Elementen. Das Endergebnis soll ein Ausschnitt aus einem Blog sein: eine Hauptüberschrift und drei Artikel mit Überschrift, Meta-Informationen und Text.
-Es ist dabei unerheblich, wie das Endergebnis aussieht. Einzig die Verwendung sinnvoller Semantik ist hierbei das Ziel. Wenn Sie mögen, können Sie natürlich zusätzlich mit CSS herumspielen.
-
-## Formulare
-
-Bauen Sie ein Formular mit Namen- und Adressfeldern. Sie können es dann später mit CSS gestalten und die Grenzen der Möglichkeiten erfahren.
-
 ## Boxmodell
 
 - Entfernen Sie [die Lücke unterhalb des Bildes](Boxmodell/textunterlaenge-und-bilder) im zweiten Container.
@@ -54,4 +44,7 @@ Arbeiten Sie mit unterschiedlichen Methoden zur Erstellung eines Layout mit dies
 - [Erstellen Sie eine Card](Module-erstellen/cards-1)  mit interaktiven Elementen.
 - [Erstellen Sie eine Card](Module-erstellen/cards-2)  mit einem Bild, das bei `:hover` nach rechts rutscht.
 
+## Formulare
+
+Bauen Sie ein Formular mit Namen- und Adressfeldern. Sie können es dann später mit CSS gestalten und die Grenzen der Möglichkeiten erfahren.
 
