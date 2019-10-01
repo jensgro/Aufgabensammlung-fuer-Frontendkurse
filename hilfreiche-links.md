@@ -1,14 +1,18 @@
 # Hilfreiche Links
 
-## Infoseiten und Referenzen
+## Referenzen
 
 - [devdocs.io](http://devdocs.io) - alle wichtigen Dokumentationen für Webtechnologien an einer Stelle 
 - [MDN](https://developer.mozilla.org/de/) - Dokumentationen zu HTML, CSS und JavaScript von Mozilla (englisch und deutsch)
 - [SELFHTML](http://wiki.selfhtml.org) - deutschsprachige Doku zu HTML, CSS und JavaScript 
-- [Codrops](https://tympanus.net/codrops/css_reference/)
+- [Codrops CSS-Referenz](https://tympanus.net/codrops/css_reference/)
+
+## Infoseiten 
+
 - [CSS-Tricks Almanach](https://css-tricks.com/almanac/)
 - [devhints](https://devhints.io/) - Cheatsheets
-- [Frontend Development Resources](http://jensgro.github.io/Frontenddevelopment-Resources/) - meine Linksammlung von wichtigen Tools und Quellen*   [das Periodensystem der HTML-Elemente](https://www.madebymike.com.au/demos/html5-periodic-table/)
+- [Frontend Development Resources](http://jensgro.github.io/Frontenddevelopment-Resources/) - meine Linksammlung von wichtigen Tools und Quellen
+- [das Periodensystem der HTML-Elemente](https://www.madebymike.com.au/demos/html5-periodic-table/)
 
 ## Tools
 

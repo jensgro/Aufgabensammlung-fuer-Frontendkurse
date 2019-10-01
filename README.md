@@ -2,7 +2,10 @@
 
 Viele der hier gesammelten Aufgaben stammen aus Codepen. Eine beiligende README-Datei informiert dann über die Quelle.
 
+Der Master-Branch dieses Repo ist immer für die aktuelle Schulung gedacht und wird danach als datierter oder benamter Branch dupliziert.
+
 Zur Unterstützung bei der Bearbeitung der Aufgaben habe ich **[hilfreiche Links](hilfreiche-links.md)** gesammelt. 
+
 
 ## Semantik
 
@@ -51,8 +54,4 @@ Arbeiten Sie mit unterschiedlichen Methoden zur Erstellung eines Layout mit dies
 - [Erstellen Sie eine Card](Module-erstellen/cards-1)  mit interaktiven Elementen.
 - [Erstellen Sie eine Card](Module-erstellen/cards-2)  mit einem Bild, das bei `:hover` nach rechts rutscht.
 
-## Seitenvorlagen
 
-Im Unterordner "[Seitenvorlagen](/Seitenvorlagen/)" befinden sich Vorschläge für Testlayouts. Teile davon kommen mit Liveinhalten, Teile sind nur Vorlagen mit Dummy-Inhalten. Ich habe einfach Screenshots beider in unterschiedlichen Breiten erstellt. Sie sollen primär als Anregung dienen. Sie könne gerne Ihre eigenen Bilder und Texte nutzen, Ihre eigene Farbgebung. Diese Beispiele sollen eine Hilfe für Sie sein, um Techniken auszuprobieren und zu vertiefen. 
-
-Für alle Beispiele fehlen logischerweise Detailinformationen. Denken Sie sich gerne Animationen aus, die den Umgang mit der Seite verbessern können. Sollten Bilder-Slider existieren, ignorieren Sie diese fürs Erste und fügen stattdessen einfach ein Bild ein. Sollten Sie Erfahrung mit Slider-Komponenten haben, können Sie diese natürlich gerne nutzen. In diesem Kurs geht es aber primär um HTML und CSS, deshalb ignorieren wir JavaScript-Herausforderungen nach besten Kräften.
