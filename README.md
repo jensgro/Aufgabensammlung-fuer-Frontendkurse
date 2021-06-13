@@ -24,15 +24,15 @@ Gestalten Sie [einen einfachen Text](Selektoren/text-mit-selektoren-gestalten/) 
 
 ## Kaskade
 
-Welche Farbe haben [diese beiden](Kaskade/) `DIV`s?
+Welche Farbe haben [diese beiden](Kaskade/README.md) `DIV`s?
 
 ## Spezifität
 
-Schauen Sie sich [die folgenden Regeln an](Spezifitaet/) und bestimmen Sie das Ergebnis.
+Schauen Sie sich [die folgenden Regeln an](Spezifitaet/README.md) und bestimmen Sie das Ergebnis.
 
 ## Floats
 
-[Spielen Sie](Floats/floating) ein wenig mit der Float-Technik. 
+[Spielen Sie](Floats/floating/) ein wenig mit der Float-Technik. 
 
 ## Layout (Grid) erstellen
 
@@ -58,7 +58,7 @@ Im Gegensatz zu einem Reset-CSS, das alle Unterschiede in einem Browser-CSS auf 
 
 Noch beeindruckender ist [der Vergleich unterschiedlicher Ansätze](https://codepen.io/jensgro/full/xBxqer) für Normalisierung oder Browser-Reset auf Codepen. 
 
-## [Kollabierende Margins](kollabierende-margins/)
+## [Kollabierende Margins](kollabierende-margins/index.html)
 
 Der Umgang mit margins (also den Aussenabständen eines Elements) ist speziell. Neben der Regel für Elemente, die nicht als Blockelement formatiert sind (da ziehen die vertikalen Margins nicht), verwirren auch immer die "kollabierenden Margins". ([Codepen-Version](https://codepen.io/jensgro/full/OKjVrX))
 
