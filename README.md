@@ -48,9 +48,9 @@ Arbeiten Sie mit unterschiedlichen Methoden zur Erstellung eines Layout mit dies
 
 Bauen Sie ein Formular, bspw. mit Namen- und Adressfeldern. Sie können es dann später mit CSS gestalten und die Grenzen der Möglichkeiten erfahren. Auf dem beispielhaften Screenshot finden Sie viele Anregungen für interessante Formulare.
 
-## [Card](Card/)
+## [Card](Card/card.html)
 
-[Ein Teaser](Card/) - neuerdings "Card" genannt - mit grober Gestaltung. Daran sollte herumgespielt werden.
+[Ein Teaser](Card/card.html) - neuerdings "Card" genannt - mit grober Gestaltung. Daran sollte herumgespielt werden.
 
 ## [Vergleich zwischen zwei Browser-Normalisierungen](vergleich-normalize-css-und-reboot-css/html-kitchensink-normalize/index.html)
 
