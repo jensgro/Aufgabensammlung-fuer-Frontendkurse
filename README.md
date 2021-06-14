@@ -2,8 +2,6 @@
 
 Viele der hier gesammelten Aufgaben stammen aus Codepen. Eine beiligende README-Datei informiert dann über die Quelle.
 
-Der Master-Branch dieses Repo ist immer für die aktuelle Schulung gedacht und wird danach als datierter oder benamter Branch dupliziert.
-
 Zur Unterstützung bei der Bearbeitung der Aufgaben habe ich **[hilfreiche Links](hilfreiche-links.md)** gesammelt. 
 
 ## Boxmodell
@@ -48,20 +46,10 @@ Arbeiten Sie mit unterschiedlichen Methoden zur Erstellung eines Layout mit dies
 
 Bauen Sie ein Formular, bspw. mit Namen- und Adressfeldern. Sie können es dann später mit CSS gestalten und die Grenzen der Möglichkeiten erfahren. Auf dem beispielhaften Screenshot finden Sie viele Anregungen für interessante Formulare.
 
+* [das Form-Element](https://devdocs.io/html/element/form)
+* der große Formular-Abschnitt [bei MDN](https://developer.mozilla.org/de/docs/Learn/Forms) (HTML und CSS!)
+
 ## [Card](Card/card.html)
 
 [Ein Teaser](Card/card.html) - neuerdings "Card" genannt - mit grober Gestaltung. Daran sollte herumgespielt werden.
 
-## Interessante Infos
-### [Vergleich zwischen zwei Browser-Normalisierungen](vergleich-normalize-css-und-reboot-css/html-kitchensink-normalize/index.html)
-
-Im Gegensatz zu einem Reset-CSS, das alle Unterschiede in einem Browser-CSS auf ein gemeinsames "Null" setzt, definieren Normalisierungs-CSS für alle Browser gemeinsame Basis-Gestaltungen. Das bekannteste und quasi die "Urmutter" ist "Normalize". Für Bootstrap v4 machte das Bootstrap-Team davon einen Fork und entwickelte es mit eigenen Ideen weiter. Das Ergebnis ist "Reboot". [Diese Seite](vergleich-normalize-css-und-reboot-css/html-kitchensink-normalize/index.html) stellt beide nebeneinander ([auch auf Codepen](https://codepen.io/jensgro/full/VwZNmaM)). 
-
-Noch beeindruckender ist [der Vergleich unterschiedlicher Ansätze](https://codepen.io/jensgro/full/xBxqer) für Normalisierung oder Browser-Reset auf Codepen. 
-
-### [Kollabierende Margins](kollabierende-margins/index.html)
-
-Der Umgang mit margins (also den Aussenabständen eines Elements) ist speziell. Neben der Regel für Elemente, die nicht als Blockelement formatiert sind (da ziehen die vertikalen Margins nicht), verwirren auch immer die "kollabierenden Margins". ([Codepen-Version](https://codepen.io/jensgro/full/OKjVrX))
-
-Wenn zwei normal im Dokumentenfluss befindliche Elemente aufeinandertreffen, addieren sich die Margins **nicht**. Es gewinnt die größere Margin. Bei gleichen wird eine genommen.
-Dies ändert sich, wenn zwei Floats aufeinandertreffen. DA wiederum addieren sich die Margins.
