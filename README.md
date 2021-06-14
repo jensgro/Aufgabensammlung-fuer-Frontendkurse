@@ -2,7 +2,9 @@
 
 Viele der hier gesammelten Aufgaben stammen aus Codepen. Eine beiligende README-Datei informiert dann über die Quelle.
 
-Zur Unterstützung bei der Bearbeitung der Aufgaben habe ich **[hilfreiche Links](hilfreiche-links.md)** gesammelt. 
+<div style="padding: 10px; margin-bottom: 20px; border: 2px solid #fd87000; background-color: #cecece; color: #000;">
+<p style="margin-bottom: 0;">Zur Unterstützung bei der Bearbeitung der Aufgaben habe ich <a href="hilfreiche-links.md"><strong>hilfreiche Links</strong> gesammelt. </p>
+</div>
 
 ## Boxmodell
 
@@ -11,7 +13,7 @@ Zur Unterstützung bei der Bearbeitung der Aufgaben habe ich **[hilfreiche Links
 
 ## Positionierung
 
-[Einsteigertest](Positionierung/test-positionierung) über die Grundbegriffe der Positionierung.
+[Einsteigertest](Positionierung/test-positionierung) über die Grundbegriffe der Positionierung. Bitte genau auf die Dimensionen und Farben achten. Wer mag und schnell genug ist, kann gerne die Zusatzaufgabe lösen.
 
 ## Selektoren
 
@@ -48,6 +50,8 @@ Bauen Sie ein Formular, bspw. mit Namen- und Adressfeldern. Sie können es dann 
 
 * [das Form-Element](https://devdocs.io/html/element/form)
 * der große Formular-Abschnitt [bei MDN](https://developer.mozilla.org/de/docs/Learn/Forms) (HTML und CSS!)
+
+Spielen Sie ausserdem mit [Checkboxen und Radiobuttons](Formulare/ckeckboxes-radios.md) herum. Die kann man zwar nicht direkt gestalten, aber es gibt Mittel und Wege, sie interessanter zu machen. Mehr Infos gibt es auf der verlinkten Seite.
 
 ## [Card](Card/card.html)
 

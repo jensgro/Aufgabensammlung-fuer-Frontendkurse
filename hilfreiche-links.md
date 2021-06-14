@@ -48,6 +48,12 @@ Im Gegensatz zu einem Reset-CSS, das alle Unterschiede in einem Browser-CSS auf 
 
 Noch beeindruckender ist [der Vergleich unterschiedlicher Ansätze](https://codepen.io/jensgro/full/xBxqer) für Normalisierung oder Browser-Reset auf Codepen. 
 
+## Das Boxmodell
+
+Wenn man nicht aufpasst, kann man mit hover-Styles [in ein Problem mit dem Boxmodell](https://codepen.io/jensgro/pen/YBJMyQ) reinlaufen.
+
+Das Boxmodell als [3D-Modell](https://codepen.io/argyleink/full/BaLedvd) ist ganz unterhaltsam. Aber wahrscheinlich versteht man es [in der 2D-Ansicht](https://codepen.io/benrobyg/full/XBPNbx) viel besser.
+
 ## [Kollabierende Margins](kollabierende-margins/index.html)
 
 Der Umgang mit margins (also den Aussenabständen eines Elements) ist speziell. Neben der Regel für Elemente, die nicht als Blockelement formatiert sind (da ziehen die vertikalen Margins nicht), verwirren auch immer die "kollabierenden Margins". ([Codepen-Version](https://codepen.io/jensgro/full/OKjVrX))
