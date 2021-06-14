@@ -52,13 +52,14 @@ Bauen Sie ein Formular, bspw. mit Namen- und Adressfeldern. Sie können es dann 
 
 [Ein Teaser](Card/card.html) - neuerdings "Card" genannt - mit grober Gestaltung. Daran sollte herumgespielt werden.
 
-## [Vergleich zwischen zwei Browser-Normalisierungen](vergleich-normalize-css-und-reboot-css/html-kitchensink-normalize/index.html)
+## Interessante Infos
+### [Vergleich zwischen zwei Browser-Normalisierungen](vergleich-normalize-css-und-reboot-css/html-kitchensink-normalize/index.html)
 
 Im Gegensatz zu einem Reset-CSS, das alle Unterschiede in einem Browser-CSS auf ein gemeinsames "Null" setzt, definieren Normalisierungs-CSS für alle Browser gemeinsame Basis-Gestaltungen. Das bekannteste und quasi die "Urmutter" ist "Normalize". Für Bootstrap v4 machte das Bootstrap-Team davon einen Fork und entwickelte es mit eigenen Ideen weiter. Das Ergebnis ist "Reboot". [Diese Seite](vergleich-normalize-css-und-reboot-css/html-kitchensink-normalize/index.html) stellt beide nebeneinander ([auch auf Codepen](https://codepen.io/jensgro/full/VwZNmaM)). 
 
 Noch beeindruckender ist [der Vergleich unterschiedlicher Ansätze](https://codepen.io/jensgro/full/xBxqer) für Normalisierung oder Browser-Reset auf Codepen. 
 
-## [Kollabierende Margins](kollabierende-margins/index.html)
+### [Kollabierende Margins](kollabierende-margins/index.html)
 
 Der Umgang mit margins (also den Aussenabständen eines Elements) ist speziell. Neben der Regel für Elemente, die nicht als Blockelement formatiert sind (da ziehen die vertikalen Margins nicht), verwirren auch immer die "kollabierenden Margins". ([Codepen-Version](https://codepen.io/jensgro/full/OKjVrX))
 
