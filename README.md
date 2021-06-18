@@ -2,8 +2,10 @@
 
 Viele der hier gesammelten Aufgaben stammen aus Codepen. Eine beiligende README-Datei informiert dann über die Quelle.
 
-<div style="padding: 10px; margin-bottom: 20px; border: 2px solid #fd87000; background-color: #cecece; color: #000;">
-<p style="margin-bottom: 0;">Zur Unterstützung bei der Bearbeitung der Aufgaben habe ich <a href="hilfreiche-links.md"><strong>hilfreiche Links</strong> gesammelt. </p>
+<div markdown="1" style="padding: 10px; margin-bottom: 20px; border: 2px solid #fd87000; background-color: #cecece; color: #000;">
+
+Zur Unterstützung bei der Bearbeitung der Aufgaben habe ich **[hilfreiche Links](hilfreiche-links.md)** gesammelt.
+
 </div>
 
 ## Boxmodell
