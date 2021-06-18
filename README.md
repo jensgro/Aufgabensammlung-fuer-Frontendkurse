@@ -17,6 +17,10 @@ Zur Unterstützung bei der Bearbeitung der Aufgaben habe ich **[hilfreiche Links
 
 [Einsteigertest](Positionierung/test-positionierung) über die Grundbegriffe der Positionierung. Bitte genau auf die Dimensionen und Farben achten. Wer mag und schnell genug ist, kann gerne die Zusatzaufgabe lösen.
 
+## Dokumentenfluss
+
+[Mit diesem Beispiel](dokumentenfluss/) können Sie die Effekte von Positionierungen, negative Margins, z-index und Floats überprüfen. Die Datei ist auch [auf Codepen](https://codepen.io/jensgro/pen/jCmbI) erreichbar.
+
 ## Selektoren
 
 Gestalten Sie die [Tabelle der 2. Fussball-Bundesliga](Selektoren/bundesliga-tabelle) mit CSS. Idealerweise müssen Sie dafür keine Änderungen am HTML vornehmen. Sie können die existierenden Klassen nutzen, aber auch auf sie verzichten. 
