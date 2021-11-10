@@ -1,0 +1,19 @@
+.navigation {
+  list-style: none;
+  margin: 0;
+  background: #a20000;
+}
+
+.navigation a {
+  text-decoration: none;
+  display: block;
+  padding: 1em;
+  color: white;
+}
+
+.navigation a:hover,
+.navigation a:focus {
+  background: #000;
+}
+
+/* optionale Spielerei mit Media Queries */

@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+/* ----- Just for demo purposes ---- */
+html {
+  font-size: 16px;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.pageheader, .pagefooter, .maincontent {
+  padding: 20px 30px;
+}
+.pageheader, .pagefooter {
+  font-size: 2rem;
+}
+/* Colors */
+
+.pageheader {
+  background-color: #7C1F22;
+  color: #fff;
+}
+.maincontent {
+  background-color: #98A6B2;
+}
+.pagefooter {
+  background-color: #1F7FA0;
+  color: #fff;
+}

@@ -58,7 +58,14 @@ Grundlegende Infoseiten dazu:
 - https://developer.mozilla.org/de/docs/Learn/Forms
 - https://wiki.selfhtml.org/wiki/HTML/Tutorials/Formulare 
 
-## [Card](Card/card.html)
+## Flexbox
 
-[Ein Teaser](Card/card.html) - neuerdings "Card" genannt - mit grober Gestaltung. Daran sollte herumgespielt werden.
-
+- Erstelle bitte [ein dreispaltiges Layout](todo-dreispaltiges-flexbox-layout) mit Hilfe dieser Vorlage.
+- [Eine horizontale Navigation](todo-hauptnavigation-mit-flexbox) ist ein klassischer Anwendungsfall für Flexbox. Bitte die halb gestaltete Liste mit Flexbox transformieren und mit den Eigenschaften experimentieren.
+- Arrangiere die Beispielcontainer [in einem Beispiel-Layout](ein-einfaches-grid-bauen). Denk daran: die Layoutcontainer sind wie ein Setzkasten. In diese Container kommt erst der darzustellende Inhalt. Die Container selber bereiten nur den Platz vor.
+- [Erstelle eine Card](cards-1)  mit interaktiven Elementen.
+- [Erstelle eine Card](cards-2)  mit einem Bild, das bei `:hover` nach rechts rutscht.
+- [Diese hübschen Kommentarboxen](todo-kommentare-mit-wechselnden-richtungen) müssen als Erstes mit Flexbox layoutet werden. In einem zweiten Schritt sollen die Ausrichtungen der Bilder abwechselnd links und rechts sein.
+- Es ist eine beliebte Herausforderung, dass [ein Footer einer Seite immer zumindest am Ende des Viewports platziert sein soll](todo-sticky-footer-mit-flexbox), auch wenn nur wenig Inhalt existiert. Früher benötigte man dafür eine passende Struktur und musste ein wenig tricksen. Mit Flexbox geht dies ganz einfach. Also ran und die Lösung finden!
+- Bring [diese Teasercontainer](todo-teaser-mit-gleicher-hoehe) in einem Grid unter und formatiere sie auf gleiche Höhe. Es soll sich bei Bedarf automatisch eine neue visuelle Zeile bilden.
+- Eine sehr einfache Aufgabe: Bitte diese schon in einem kleinen Grid platzierten [Visitenkarten gestalten](todo-visitenkarten).
