@@ -1,3 +1,12 @@
+/*  box sizing */
+*, *:before, *:after {
+	box-sizing: border-box;
+}
+
+/* styling basics */
+html {padding: 20px 0; background-color: #ededed;}
+body {width: 90%; padding: 20px; margin: 0 auto; background: #fff; box-shadow: 1px 1px 5px rgba(0,0,0,0.5); font-family: Verdana, Arial, sans-serif; font-size: 16px;}
+
 p {
   font-size: 20px;
 }
@@ -5,3 +14,4 @@ p {
 .testbox {
   border: 10px solid #000;
 }
+

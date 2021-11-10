@@ -1,3 +1,14 @@
+/* ===== Basics =========*/
+* {
+    box-sizing: border-box;
+}
+html {
+    font-size: 16px;
+}
+body {
+    font-size: 1rem;
+}
+/* ===== Die Tabelle =========*/
 .table {}
 .team {}
 .matches {}

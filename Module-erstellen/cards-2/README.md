@@ -1,6 +1,6 @@
 # Card mit einfachem Hovereffekt erstellen
 
-Erstellen Sie eine oder mehrere Cards anhand dieses Layouts:
+Erstelle eine oder mehrere Cards anhand dieses Layouts:
 
 ![Card mit animiertem Bild](card-2.png)
 

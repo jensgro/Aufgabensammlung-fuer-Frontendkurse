@@ -1,4 +1,10 @@
 # Zeilenboxen und display-Eigenschaft
- _A Pen created at CodePen.io. Original URL: [https://codepen.io/jensgro/pen/ZEzwvwQ](https://codepen.io/jensgro/pen/ZEzwvwQ).
+
+* Gib den unterschiedlichen Inline-Elementen ein vertikales Margin und Padding, das wirklich eine Auswirkung hat.
+* Was ist mit horizontalem Margin und Padding?
+* Was ist mit Schriftformatierungen?
+* Welche Ausprägungen der display-Eigenschaft sind bei diesen Elementen überhaupt sinnvoll? Teste sie aus.
+
+ Original URL: [https://codepen.io/jensgro/pen/ZEzwvwQ](https://codepen.io/jensgro/pen/ZEzwvwQ).
 
  

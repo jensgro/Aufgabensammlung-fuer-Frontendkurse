@@ -1,7 +1,22 @@
 # Hilfreiche Links
+
+  - [Referenzen](#referenzen)
+  - [Infoseiten](#infoseiten)
+  - [Tools](#tools)
+  - [Validierung](#validierung)
+  - [Blindtexte und Platzhalterbilder](#blindtexte-und-platzhalterbilder)
+  - [SVGs](#svgs)
+  - [Vergleich zwischen zwei Browser-Normalisierungen](#vergleich-zwischen-zwei-browser-normalisierungen)
+  - [Das Boxmodell](#das-boxmodell)
+  - [Kollabierende Margins](#kollabierende-margins)
+  - [Sammlungen von Beispielen zur Inspiration auf CodePen](#sammlungen-von-beispielen-zur-inspiration-auf-codepen)
+  - [Bilder beschneiden](#bilder-beschneiden)
+  - [Bilder responsive machen](#bilder-responsive-machen)
+  - [Bilder responsive einbinden](#bilder-responsive-einbinden)
+
 ## Referenzen
 
-Für die Suche nach HTML-Elementen und CSS-Eigenschaften eignet sich MDN immer in besonderem Masse. Ich bevorzuge hingegen [devdocs](https://devdocs.io/). Das ist eine einheitliche, schnell ladende Oberfläche für sehr viele APIs. Die Seiten von MDN werden auch genutzt. Allerdings (logischerweise) nur in der englischsprachigen Variante. 
+Für die Suche nach HTML-Elementen und CSS-Eigenschaften eignet sich [MDN](https://developer.mozilla.org/de/) immer in besonderem Maße. Ich bevorzuge hingegen [devdocs](https://devdocs.io/). Das ist eine einheitliche, schnell ladende Oberfläche für sehr viele APIs. Die Seiten von MDN werden auch genutzt. Allerdings (logischerweise) nur in der englischsprachigen Variante. 
 
 - [devdocs.io](http://devdocs.io) - alle wichtigen Dokumentationen für Webtechnologien an einer Stelle 
 - [MDN](https://developer.mozilla.org/de/) - Dokumentationen zu HTML, CSS und JavaScript von Mozilla (englisch und deutsch)
@@ -13,11 +28,13 @@ Für die Suche nach HTML-Elementen und CSS-Eigenschaften eignet sich MDN immer i
 - [CSS-Tricks Almanach](https://css-tricks.com/almanac/)
 - [devhints](https://devhints.io/) - Cheatsheets
 - [Frontend Development Resources](http://jensgro.github.io/Frontenddevelopment-Resources/) - meine Linksammlung von wichtigen Tools und Quellen
-- [das Periodensystem der HTML-Elemente](https://www.madebymike.com.au/demos/html5-periodic-table/)
+- [das Periodensystem der HTML-Elemente](https://codepen.io/jensgro/full/rXegzj)
+- [Mediaevent](https://www.mediaevent.de/)
+- [SELFHTML](https://wiki.selfhtml.org/)
 
 ## Tools
 
-- [Farbverläufe erstellen](http://www.colorzilla.com/gradient-editor/) - mit Codeausgabe 
+- [Farbverläufe erstellen](https://omatsuri.app/gradient-generator) - mit Codeausgabe 
 - [animate.css - fertige Animationen zum Kopieren](https://daneden.github.io/animate.css/) 
 - [animista - eine weitere Variante, um fertige Animationen zu kopieren](http://animista.net/)  
 - [Specificity Calculator](https://codepen.io/jensgro/full/LEcGF)
@@ -32,15 +49,15 @@ Für die Suche nach HTML-Elementen und CSS-Eigenschaften eignet sich MDN immer i
 
 ## Blindtexte und Platzhalterbilder
 
--  Blindtexte können Sie sich im [Blindtextgenerator](http://www.blindtextgenerator.de/) in unterschiedlichen Sprachen zusammenstellen. Auch in Deutsch!
+-  Blindtexte kannst Du Dir im [Blindtextgenerator](http://www.blindtextgenerator.de/) in unterschiedlichen Sprachen zusammenstellen. Auch in Deutsch!
 -  Eine Auswahl an kostenlosen Platzhalterbildern für Entwürfe bietet [meine Codepen-Seite](https://codepen.io/jensgro/full/HFnsE).
--  Auf Codepen finden Sie [unzusammenhängende Blindtexte](https://codepen.io/jensgro/pen/yactj?editors=1000) und einen sehr alten Artikel von mir als Blindtext: [Webseiten sind keine Gemälde](https://codepen.io/jensgro/pen/vFagC?editors=1000).
+-  Auf Codepen findest Du [unzusammenhängende Blindtexte](https://codepen.io/jensgro/pen/yactj?editors=1000) und einen sehr alten Artikel von mir als Blindtext: [Webseiten sind keine Gemälde](https://codepen.io/jensgro/pen/vFagC?editors=1000).
 
 ## SVGs
 
 - [SVGs für eigene Entwürfe](https://codepen.io/jensgro/pen/LYPLEvE)
 - [weitere, sehr einfach gehaltene SVGs](https://codepen.io/jensgro/pen/yzryMN) für eigene Entwürfe - sie können diesmal einfacher einzeln herauskopiert werden
--  SVG-Illustrationen finden Sie auf [undraw](https://undraw.co/illustrations).
+-  SVG-Illustrationen findest Du auf [undraw](https://undraw.co/illustrations).
 
 ## [Vergleich zwischen zwei Browser-Normalisierungen](vergleich-normalize-css-und-reboot-css/html-kitchensink-normalize/index.html)
 
@@ -58,8 +75,8 @@ Das Boxmodell als [3D-Modell](https://codepen.io/argyleink/full/BaLedvd) ist gan
 
 Der Umgang mit margins (also den Aussenabständen eines Elements) ist speziell. Neben der Regel für Elemente, die nicht als Blockelement formatiert sind (da ziehen die vertikalen Margins nicht), verwirren auch immer die "kollabierenden Margins". ([Codepen-Version](https://codepen.io/jensgro/full/OKjVrX))
 
-Wenn zwei normal im Dokumentenfluss befindliche Elemente aufeinandertreffen, addieren sich die Margins **nicht**. Es gewinnt die größere Margin. Bei gleichen wird eine genommen.
-Dies ändert sich, wenn zwei Floats aufeinandertreffen. DA wiederum addieren sich die Margins.
+Wenn zwei normal im Dokumentenfluss befindliche Elemente aufeinandertreffen, addieren sich die Margins **nicht**. Es gewinnt die größere Margin. Bei gleichen wird eine von beiden genommen.
+Dies ändert sich, wenn zwei Floats aufeinandertreffen. Denn dann wiederum addieren sich die Margins.
 
 ## Sammlungen von Beispielen zur Inspiration auf CodePen
 

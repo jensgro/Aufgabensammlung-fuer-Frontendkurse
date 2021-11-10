@@ -1,6 +1,6 @@
 # Card mit Hovereffekt erstellen
 
-Erstellen Sie drei oder mehr Cards anhand dieses Layouts:
+Erstelle drei oder mehr Cards anhand dieses Layouts:
 
 ![Card mit animierten Infoecken](news-card.png)
 

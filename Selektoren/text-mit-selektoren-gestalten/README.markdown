@@ -1,4 +1,7 @@
 # Text mit Selektoren gestalten
- _A Pen created at CodePen.io. Original URL: [https://codepen.io/jensgro/pen/bXpPzr](https://codepen.io/jensgro/pen/bXpPzr).
+
+Gestalte diesen einfachen Text nur mit Selektoren (in der ``styles.css``).
+
+Original URL: [https://codepen.io/jensgro/pen/bXpPzr](https://codepen.io/jensgro/pen/bXpPzr).
 
  
