@@ -32,6 +32,17 @@ Für die Suche nach HTML-Elementen und CSS-Eigenschaften eignet sich [MDN](https
 - [Mediaevent](https://www.mediaevent.de/)
 - [SELFHTML](https://wiki.selfhtml.org/)
 
+## Lernvideos
+
+- Josh Comeau spricht in einem 45minütigen Talk über [Grundmechanismen von CSS](https://youtu.be/Xt1Cw4qM3Ec). Es ist ein sehr interessanter Blick auf "Flow Content", "Positionierung" und "Flexbox". [auf Englisch]
+- Bramus Van Damme spricht 40 Minuten über [alle Aspekte der Kaskade](https://youtu.be/lrivS7K1LcY). Das hört sich erst einmal öde an, ist es aber nicht. Und vor allem ist die Kaskade eine der wichtigsten Grundprinzipien von CSS.
+- Grundsätzlich kann man [alle Videos von Kevin Powell](https://www.youtube.com/kepowob/videos) anschauen. Sie sind selten lang und Kevin erklärt gut. 
+
+Es gibt natürlich auch eine Menge Videos für JS-Anfänger:
+
+- [Learn JavaScript - Full Course for Beginners](https://youtu.be/PkZNo7MFNFg) (3,5 Stunden)
+- [Learn DOM Manipulation In 18 Minutes](https://youtu.be/y17RuWkWdn8)
+
 ## Tools
 
 - [Farbverläufe erstellen](https://omatsuri.app/gradient-generator) - mit Codeausgabe 
@@ -88,22 +99,3 @@ Dies ändert sich, wenn zwei Floats aufeinandertreffen. Denn dann wiederum addie
 ## Bilder beschneiden
 
 CodePen mit zwei Techniken zur [Einbindung und Beschneidung großer Bilder](https://codepen.io/jensgro/pen/JjPJePE?editors=0100)
-
-## Bilder responsive machen
-
-Jedem Bild, das sich über wechselnde Breiten skalieren soll, sollte diese Klasse mitgegeben werden (der Klassenname ist natürlich individuell wählbar):
-
-````
-    .flexible {
-        width: 100%;
-        max-width: 100%;
-        height: auto;
-    }
-````
-
-## Bilder responsive einbinden
-
-- [Mein einführender Artikel von 2014](http://webkrauts.de/artikel/2014/der-neue-standard-fuer-responsive-bilder)
-- [A Guide to Responsive Images with Ready-to-Use Templates](https://medium.freecodecamp.org/a-guide-to-responsive-images-with-ready-to-use-templates-c400bd65c433)
-- [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/) (eine umfangreiche und tolle Serie)
-
